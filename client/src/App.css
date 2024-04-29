@@ -1,0 +1,96 @@
+.App {
+  text-align: justify;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  min-height: 30vh;
+  display: flex;
+  flex-direction: center;
+  align-items: center;
+  justify-content: center;
+  font-size: 35px;
+  color: white;
+}
+
+.App-link {
+  color: #e9eef0;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.home-page {
+  height: 100vh;
+}
+.banner-image {
+  background-image: url('./images/img1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 1.0;
+  height: 80%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  color: white
+}
+.heading {
+  text-align: center;
+}
+.images {
+  float: left;
+  width: 23pc;
+  font-size: 20px;
+
+  
+}
+.marri-pics {
+  float: left;
+  width: 30pc;
+  font-size: 30px;
+ 
+  
+
+}
+.containers {
+  width: 82%;
+  margin: auto;
+  height: 100%;
+  color: grey;
+  font-size: 92%;
+  
+}
+
+ 
+  
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
